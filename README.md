@@ -1,5 +1,6 @@
 <h1 align="center">Hi There👋, I'm Mustafa Guleroglu</h1>
 <h3 align="center">A Frontend Developer from Turkey</h3>
+<img align="right" width="400" src="https://i.pinimg.com/originals/32/5a/28/325a28c7d5c4f517fcbb00ca30cbb1b1.gif" alt="Aragorn">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guleroglu&label=Profile%20views&color=0e75b6&style=flat" alt="guleroglu" /> </p>
 
